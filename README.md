@@ -2,7 +2,7 @@
 
 # 🚀 Laravel 13 + React Starter Kit
 
-A modern and flexible starter kit built with **Laravel 13**, **React (Inertia.js + TypeScript)**, **TailwindCSS**, and **ShadCN UI**. Designed to accelerate secure, responsive, and customizable dashboard application development. Requires **PHP 8.5+**.
+A modern and flexible starter kit built with **Laravel 13**, **React (Inertia.js + TypeScript)**, **TailwindCSS**, and **ShadCN UI**. Designed to accelerate secure, responsive, and customizable dashboard application development. Requires **PHP 8.3+**.
 
 ---
 
